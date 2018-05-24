@@ -1,0 +1,23 @@
+commit db30e9dab92e9a82d4fa617626a83dc2d1a50a47
+Author: Luis Brazón <skete.jejeje@gmail.com>
+Date:   Tue May 22 13:34:01 2018 -0430
+
+    Intente poner fotos de guitarras
+
+commit e189e51dfce6c90f321579861eddeee71787ac17
+Author: Luis Brazón <skete.jejeje@gmail.com>
+Date:   Tue May 22 13:30:03 2018 -0430
+
+    Intente solucionar error del logotipo
+
+commit 046f22d54a188a5ffd1b3d7e639f6f62d1bc2356
+Author: Luis Brazón <skete.jejeje@gmail.com>
+Date:   Tue May 22 13:25:54 2018 -0430
+
+    Intente subir logotipo de invie
+
+commit a6c2e62585f7a21e96b2177155d6f85bfe52d96a
+Author: Luis Brazón <skete.jejeje@gmail.com>
+Date:   Tue May 22 13:13:21 2018 -0430
+
+    Archivos base
