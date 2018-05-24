@@ -1,3 +1,9 @@
+commit 9343eb87c54ed8764202eabaabf213f44646e9ab
+Author: Luis Brazón <skete.jejeje@gmail.com>
+Date:   Wed May 23 21:36:26 2018 -0430
+
+    Agregue estilos, hice la pagina principal y la de precios, faltan toques finales
+
 commit db30e9dab92e9a82d4fa617626a83dc2d1a50a47
 Author: Luis Brazón <skete.jejeje@gmail.com>
 Date:   Tue May 22 13:34:01 2018 -0430
